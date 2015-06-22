@@ -13,4 +13,5 @@ header h1 { text-align: left; color: #fff; text-transform: uppercase; margin:0; 
 .dojo ul li { display: table-cell; padding: 10px; list-style: none;}
 .dojo ul .label { padding-right: 30px;}
 
-.code { width: 320px; margin: 10px auto;}
+.code { width: 320px; margin: 10px auto; position: fixed; bottom: 0;}
+.code img { width: 100%; max-width: 100%;}
